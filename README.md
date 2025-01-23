@@ -1,5 +1,5 @@
 # Hi👋, I'm Amdadul Islam.
-### I am a Laravel Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and WordPress customization expert  from Bangladesh. 
+### I am a Laravel Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and WordPress Customization Expert from Bangladesh. 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
