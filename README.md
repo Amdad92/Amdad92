@@ -9,7 +9,7 @@ I am a Laravel Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 I am a self-taught developer passionate about crafting user-friendly and scalable web applications. With expertise in **Laravel** and **WordPress customization**, I love solving real-world problems through clean and efficient code.
 - 🌱 Currently learning advanced Laravel features and API development.  
 - 🔨 Working on open-source projects to contribute to the developer community.  
-- 🚀 Always exploring new tools and technologies to enhance my skill set.  
+- 🚀 Always exploring new tools and technologies to enhance my skill set.
 
 ### My Skills:  
 - **Programming Languages**: PHP, JavaScript, HTML, CSS  
@@ -48,3 +48,5 @@ I am a self-taught developer passionate about crafting user-friendly and scalabl
 
 ### Let's Connect:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/amdadul-islam-bd/)  [![Email](https://img.shields.io/badge/Email-contact-blue)](mailto:emdadctg92@gmail.com)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amdad92&theme=dark)](https://git.io/streak-stats)
