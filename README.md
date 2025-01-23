@@ -1,5 +1,5 @@
 # Hi👋, I'm Amdadul Islam.
-I am a Laravel Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and WordPress customization expert  from Bangladesh. 
+### I am a Laravel Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and WordPress customization expert  from Bangladesh. 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -11,7 +11,7 @@ I am a self-taught developer passionate about crafting user-friendly and scalabl
 - 🔨 Working on open-source projects to contribute to the developer community.  
 - 🚀 Always exploring new tools and technologies to enhance my skill set.
 
-### My Skills:  
+### My Skills:
 - **Programming Languages**: PHP, JavaScript, HTML, CSS  
 - **Frameworks**: Laravel, Tailwind CSS, Vue.js
 - **Database**: MySQL
