@@ -48,5 +48,3 @@ I am a self-taught developer passionate about crafting user-friendly and scalabl
 
 ### Let's Connect:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/amdadul-islam-bd/)  [![Email](https://img.shields.io/badge/Email-contact-blue)](mailto:emdadctg92@gmail.com)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amdad92&theme=dark)](https://git.io/streak-stats)
