@@ -13,7 +13,7 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 ---
 
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 **Programming Languages**
 - PHP, JavaScript, HTML, CSS  
@@ -32,7 +32,11 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 ---
 
+<div align="center">
+
 ## 🔍 Additional Skills
+
+</div>
 
 ## 💻 Back-End Development
 - Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
