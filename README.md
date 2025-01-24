@@ -44,7 +44,7 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - JavaScript frameworks like React.js.
 - Shopify app development.
 
-### 💬 Feel Free to Ask Me About
+## 💬 Feel Free to Ask Me About
 - Web development best practices.
 - Building scalable applications with Laravel and WordPress.
 - UI/UX design for responsive websites.
