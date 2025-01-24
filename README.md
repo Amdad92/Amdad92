@@ -5,7 +5,7 @@ I am a **Laravel Developer**<img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
-### :man_technologist:. About Me :
+:man_technologist:. About Me :
 I am a self-taught developer passionate about building scalable, maintainable, and impactful web applications. My journey in web development has been fueled by curiosity and a love for solving challenging problems. Below is a snapshot of my skills and expertise:
 ---
 
