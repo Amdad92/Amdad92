@@ -10,41 +10,41 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 ## 🛠️ My Skills
 
-***Programming Languages***
+**Programming Languages**
 - PHP, JavaScript, HTML, CSS  
 
-***Frameworks & Libraries***
+**Frameworks & Libraries**
 - Laravel, Tailwind CSS, Vue.js  
 
-***Database Management***
+**Database Management**
 - MySQL  
 
-***Content Management System (CMS)***
+**Content Management System (CMS)**
 - WordPress (Theme & Plugin Customization)  
 
-***Development Tools & Platforms***
+**Development Tools & Platforms**
 - Git, Composer, cPanel, VS Code, Xampp, Postman  
 
 ---
 
 ## 🔍 Additional Skills
 
-***💻 Back-End Development***
+**💻 Back-End Development**
 - Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
 - WordPress: Custom themes, plugin development, WooCommerce setup, and speed optimization.  
 
-***🎨 Front-End Development***
+**🎨 Front-End Development**
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
 - Modern web development with a focus on performance and accessibility.  
 
 ---
 
-***🌱 I’m Currently Learning***
+**🌱 I’m Currently Learning**
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
 - Shopify app development.
 
-***💬 Feel Free to Ask Me About***
+**💬 Feel Free to Ask Me About**
 - Web development best practices.
 - Building scalable applications with Laravel and WordPress.
 - UI/UX design for responsive websites.
