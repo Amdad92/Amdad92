@@ -6,14 +6,14 @@ A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplc
 
 <div align="center">
 
-### :man_technologist: About Me
+## :man_technologist: About Me
 
 </div>
 I am a self-taught developer passionate about building scalable, maintainable, and impactful web applications. My journey in web development has been fueled by curiosity and a love for solving challenging problems. Below is a snapshot of my skills and expertise:
 
 ---
 
-### 🛠️ My Skills
+## 🛠️ My Skills
 
 **Programming Languages**
 - PHP, JavaScript, HTML, CSS  
@@ -38,22 +38,22 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 </div>
 
-## 💻 Back-End Development
+### 💻 Back-End Development
 - Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
 - WordPress: Custom themes, plugin development, WooCommerce setup, and speed optimization.  
 
-## 🎨 Front-End Development
+### 🎨 Front-End Development
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
 - Modern web development with a focus on performance and accessibility.  
 
 ---
 
-## 🌱 I’m Currently Learning
+### 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
 - Shopify app development.
 
-## 💬 Feel Free to Ask Me About
+### 💬 Feel Free to Ask Me About
 - Web development best practices.
 - Building scalable applications with Laravel and WordPress.
 - UI/UX design for responsive websites.
