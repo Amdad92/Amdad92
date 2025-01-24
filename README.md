@@ -6,44 +6,54 @@ I am a **Laravel Developer**<img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :man_technologist:. About Me :
-I am a self-taught developer passionate about crafting user-friendly and scalable web applications. With expertise in **Laravel** and **WordPress customization**, I love solving real-world problems through clean and efficient code.
-- 🌱 Currently learning advanced Laravel features and API development.  
-- 🔨 Working on open-source projects to contribute to the developer community.  
-- 🚀 Always exploring new tools and technologies to enhance my skill set.
+I am a self-taught developer passionate about building scalable, maintainable, and impactful web applications. My journey in web development has been fueled by curiosity and a love for solving challenging problems. Below is a snapshot of my skills and expertise:
+---
 
-### My Skills:
-- **Programming Languages**: PHP, JavaScript, HTML, CSS  
-- **Frameworks**: Laravel, Tailwind CSS, Vue.js
-- **Database**: MySQL
-- **CMS**: WordPress (Theme & Plugin Customization)  
-- **Tools & Platforms**: Git, Composer, cPanel, VS Code, Xampp, Postman
+## 🛠️ My Skills
 
-### My Services:
-1. Laravel Development
-- 🛠️ Custom web application development with clean, scalable, and maintainable code.
-- 🔗 RESTful API design, development, and integration.
-- 🗃️ Advanced database design and optimization using MySQL.
-- 💳 E-commerce solutions with secure payment gateway integration.
-  
-2. WordPress Customization
-- 🎨 Fully customized, responsive, and SEO-friendly WordPress themes.
-- 🔌 Plugin development and modification to meet business needs.
-- 🛍️ WooCommerce setup for online stores with payment integration.
-- ⚡ Speed optimization for fast-loading WordPress websites.
+### Programming Languages
+- PHP, JavaScript, HTML, CSS  
 
-3. Front-End Development
-- 📱 Modern and responsive UI/UX design using HTML, CSS, JavaScript, and Bootstrap.
-- 🌍 Cross-browser compatibility and mobile-first development.
-- 🐞 Bug fixes and performance improvements for existing websites.
+### Frameworks & Libraries
+- Laravel, Tailwind CSS, Vue.js  
 
-4. Maintenance & Support
-- 🔍 Comprehensive troubleshooting and debugging for Laravel and WordPress projects.
-- 🔐 Regular security updates, backup, and performance monitoring.
-- 🤝 Ongoing support for existing web applications and websites.
+### Database Management
+- MySQL  
 
-5. Consultation Services
-- 📈 Expert guidance for startups and businesses to choose the right tech stack.
-- 📊 Performance analysis and code review for existing projects.
+### Content Management System (CMS)
+- WordPress (Theme & Plugin Customization)  
+
+### Development Tools & Platforms
+- Git, Composer, cPanel, VS Code, Xampp, Postman  
+
+---
+
+## 🔍 Additional Skills
+
+### 💻 Back-End Development
+- Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
+- WordPress: Custom themes, plugin development, WooCommerce setup, and speed optimization.  
+
+### 🎨 Front-End Development
+- HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
+- Modern web development with a focus on performance and accessibility.  
+
+---
+
+### 🌱 I’m Currently Learning
+- Advanced Laravel concepts.
+- JavaScript frameworks like React.js.
+- Shopify app development.
+
+### 💬 Feel Free to Ask Me About
+- Web development best practices.
+- Building scalable applications with Laravel and WordPress.
+- UI/UX design for responsive websites.
+
+---
+
+I’m always eager to learn and collaborate on exciting projects. Feel free to explore my repositories and connect with me to build something great together! 🚀
+
 
 
 ### Let's Connect:   
