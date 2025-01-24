@@ -11,29 +11,25 @@ A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplc
 </div>
 I am a self-taught developer passionate about building scalable, maintainable, and impactful web applications. My journey in web development has been fueled by curiosity and a love for solving challenging problems. Below is a snapshot of my skills and expertise:
 
----
-
 ## 🛠️ My Skills
 
 **Programming Languages**
-- PHP, JavaScript, HTML, CSS  
-
+- PHP, JavaScript, HTML, CSS
+  
 **Frameworks & Libraries**
-- Laravel, Tailwind CSS, Vue.js  
+- Laravel, Tailwind CSS, Vue.js
 
 **Database Management**
-- MySQL  
+- MySQL
 
 **Content Management System (CMS)**
-- WordPress (Theme & Plugin Customization)  
+- WordPress (Theme & Plugin Customization)
 
 **Development Tools & Platforms**
 - Git, Composer, cPanel, VS Code, Xampp, Postman
 
----
-
 <div align="center">
-
+  
 ## 🔍 Additional Skills
 
 </div>
@@ -45,8 +41,6 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 ### 🎨 Front-End Development
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
 - Modern web development with a focus on performance and accessibility.  
-
----
 
 ### 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
