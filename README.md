@@ -24,12 +24,8 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 **Development Tools & Platforms**
 - Git, Composer, cPanel, VS Code, Xampp, Postman
-
-<div align="center">
   
 ## 🔍 Additional Skills
-
-</div>
 
 ### 💻 Back-End Development
 - Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
