@@ -4,11 +4,8 @@ A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplc
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div align="center">
 
 ## :man_technologist: About Me
-
-</div>
 I am a self-taught developer passionate about building scalable, maintainable, and impactful web applications. My journey in web development has been fueled by curiosity and a love for solving challenging problems. Below is a snapshot of my skills and expertise:
 
 ## 🛠️ My Skills
