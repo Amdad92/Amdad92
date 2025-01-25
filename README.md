@@ -33,7 +33,7 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 </div>
 
 ### 💻 Back-End Development
-- Laravel: Custom Web Applications
+- Custom Web Applications
 - RESTful APIs
 - MySQL Database Management
 - E-commerce Solutions
