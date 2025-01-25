@@ -10,17 +10,10 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 ## 🛠️ My Skills
 
-**Programming Languages**
-- PHP, JavaScript, HTML, CSS
-  
-**Frameworks & Libraries**
-- Laravel, Tailwind CSS, Vue.js
-
-**Database Management**
-- MySQL
-
-**Development Tools & Platforms**
-- Git, Composer, VS Code, Xampp, Postman
+- **Programming Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Laravel, Tailwind CSS
+- **Database Management:** MySQL
+- **Development Tools:** Git, Composer, VS Code, XAMPP, Postman
   
 ## 🔍 Additional Skills
 
