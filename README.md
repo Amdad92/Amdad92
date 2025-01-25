@@ -50,8 +50,7 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
-
----
+##
 I’m always eager to learn and collaborate on exciting projects. Feel free to explore my repositories and connect with me to build something great together! 🚀
 
 ### Let's Connect:   
