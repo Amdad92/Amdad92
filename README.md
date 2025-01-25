@@ -42,9 +42,15 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - Responsive UI/UX design
 - Cross-browser compatibility
 
+<div align="center">
+  
 ## 🌱 I’m Currently Learning
+
+</div>
+
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
+
 ---
 I’m always eager to learn and collaborate on exciting projects. Feel free to explore my repositories and connect with me to build something great together! 🚀
 
