@@ -50,4 +50,4 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 I’m always eager to learn and collaborate on exciting projects. Feel free to explore my repositories and connect with me to build something great together! 🚀
 
 ### Let's Connect:   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/amdadul-islam-bd/)  [![Email](https://img.shields.io/badge/Email-contact-blue)](mailto:emdadctg92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/amdadul-islam-bd/)  [![Email](https://img.shields.io/badge/Email-contact-blue)](mailto:emdadctg92@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-connect-blue)](https://www.facebook.com/eialam/)
