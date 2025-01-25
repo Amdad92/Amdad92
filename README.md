@@ -35,12 +35,12 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
 - Modern web development with a focus on performance and accessibility.  
 
-### 🌱 I’m Currently Learning
+## 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
 - Shopify app development.
 
-### 💬 Feel Free to Ask Me About
+## 💬 Feel Free to Ask Me About
 - Web development best practices.
 - Building scalable applications with Laravel and WordPress.
 - UI/UX design for responsive websites.
