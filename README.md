@@ -25,8 +25,12 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - **Frameworks & Libraries:** Laravel, Tailwind CSS
 - **Database Management:** MySQL
 - **Development Tools:** Git, Composer, VS Code, XAMPP, Postman
+
+<div align="center">
   
 ## 🔍 Areas of Expertise
+
+</div>
 
 ### 💻 Back-End Development
 - Laravel: Custom web applications
