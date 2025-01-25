@@ -1,5 +1,5 @@
 # Hi👋 I'm Amdadul Islam.
-A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and **WordPress Customization Expert** from **Bangladesh**. 
+A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Bangladesh**. 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -19,21 +19,16 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 **Database Management**
 - MySQL
 
-**Content Management System (CMS)**
-- WordPress (Theme & Plugin Customization)
-
 **Development Tools & Platforms**
-- Git, Composer, cPanel, VS Code, Xampp, Postman
+- Git, Composer, VS Code, Xampp, Postman
   
 ## 🔍 Additional Skills
 
 ### 💻 Back-End Development
-- Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.  
-- WordPress: Custom themes, plugin development, WooCommerce setup, and speed optimization.  
+- Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.   
 
 ### 🎨 Front-End Development
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
-- Modern web development with a focus on performance and accessibility.  
 
 ## 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
