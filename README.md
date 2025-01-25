@@ -24,7 +24,8 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - E-commerce solutions
 
 ### 🎨 Front-End Development
-- HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
+- Responsive UI/UX design
+- Cross-browser compatibility
 
 ## 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
