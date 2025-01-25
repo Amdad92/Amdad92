@@ -33,14 +33,14 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 </div>
 
 ### 💻 Back-End Development
-- Laravel: Custom web applications
+- Laravel: Custom Web Applications
 - RESTful APIs
-- MySQL database management
-- E-commerce solutions
+- MySQL Database Management
+- E-commerce Solutions
 
 ### 🎨 Front-End Development
-- Responsive UI/UX design
-- Cross-browser compatibility
+- Responsive UI/UX Design
+- Cross-Browser Compatibility
 
 <div align="center">
   
