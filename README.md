@@ -38,15 +38,7 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 ## 🌱 I’m Currently Learning
 - Advanced Laravel concepts.
 - JavaScript frameworks like React.js.
-- Shopify app development.
-
-## 💬 Feel Free to Ask Me About
-- Web development best practices.
-- Building scalable applications with Laravel and WordPress.
-- UI/UX design for responsive websites.
-
 ---
-
 I’m always eager to learn and collaborate on exciting projects. Feel free to explore my repositories and connect with me to build something great together! 🚀
 
 ### Let's Connect:   
