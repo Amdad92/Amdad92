@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi👋 I'm Amdadul Islam.
+# Hi👋 I'm Amdadul Islam
 A passionate **Laravel Developer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Bangladesh**. 
 </div>
 <div align="center">
