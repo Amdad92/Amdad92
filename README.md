@@ -15,10 +15,13 @@ I am a self-taught developer passionate about building scalable, maintainable, a
 - **Database Management:** MySQL
 - **Development Tools:** Git, Composer, VS Code, XAMPP, Postman
   
-## 🔍 Additional Skills
+## 🔍 Areas of Expertise
 
 ### 💻 Back-End Development
-- Laravel: Custom web applications, RESTful APIs, MySQL database management, and e-commerce solutions.   
+- Laravel: Custom web applications
+- RESTful APIs
+- MySQL database management
+- E-commerce solutions
 
 ### 🎨 Front-End Development
 - HTML, CSS, JavaScript, and Tailwind CSS: Responsive UI/UX design and cross-browser compatibility.  
